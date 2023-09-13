@@ -1,4 +1,4 @@
-# solidity-homework-week-4
+# solidity-homework-week-5
 
 #### created a frontend for the lottery dapp
 ![Alt text](<Screenshot (572).png>)
